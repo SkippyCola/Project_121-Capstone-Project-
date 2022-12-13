@@ -1,0 +1,21 @@
+.title2
+{
+    font-size: 20px;
+}
+
+body{
+    background-color: gold;
+}
+
+#final_result
+{
+    border-color:black ;
+    color: red;
+    border-width: 20px;
+    border-radius: 20px;
+    border-radius: 20px; 
+    box-shadow:5px 5px 5px grey;
+    float: unset;
+    padding: 10px;
+  
+}
